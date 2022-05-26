@@ -1,0 +1,5 @@
+<title>404 Page not found</title>
+<h2>404 page not found. You can play a game while you get bored.</h2>
+<h3>Game by Google Chrome and chromedino.com</h3>
+<iframe src="https://chromedino.com/" frameborder="0" scrolling="no" width="100%" height="100%" loading="lazy"></iframe>
+<style type="text/css">iframe { position: absolute; width: 100%; height: 100%; z-index: 999; }</style>
